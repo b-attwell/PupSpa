@@ -1,0 +1,1 @@
+Codecademy project with a focus on using CSS Grid.
